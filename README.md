@@ -110,3 +110,14 @@ jupyter notebook news.ipynb
 
 3. Run the cells in order to reproduce preprocessing, training, and evaluation.
 
+## Possible Improvements
+
+- Replace Bag-of-Words with TF-IDF or word embeddings
+- Try additional models (SVM, Random Forest, Gradient Boosting) for comparison
+- Add regularization/hyperparameter tuning to close the train/test accuracy gap
+- Evaluate on an external, out-of-distribution news dataset to test generalization
+- Wrap the trained model in a simple script or web app for interactive predictions
+
+## Author
+
+[Kabeer07-dev](https://github.com/Kabeer07-dev)
